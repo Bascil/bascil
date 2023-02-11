@@ -1,4 +1,4 @@
-#### Who i am
+#### Short Summary
 - A Senior Software Engineer with 6 years experience based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Kenya).** 
 - I have practical experience in **React, NextJs, Node, Typescript, Laravel, CICD, Terraform and GCP.**
 - Developed products for **Logistics, E-commerce, Education,** and **Healthcare** business domains.
