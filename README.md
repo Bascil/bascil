@@ -1,11 +1,4 @@
-### Hi there 👋!
-
-<!--
-**bascil/bascil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-#### Who I am?
+#### Summary
 - A Senior Software Engineer with 6 years experience based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Kenya).** 
 - I have practical experience in **React, NextJs, Node, Typescript, Laravel, CICD, Terraform and GCP.**
 - Developed products for **Logistics, E-commerce, Education,** and **Healthcare** business domains.
