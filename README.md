@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/basil-ndonga/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **[Nairobi Gophers Community]**(https://www.meetup.com/nairobi-gophers/).
 - 📚 Currently learning about **design patterns**, **large scale system design**, and **techical pitch**.
 - 👯 Looking to collaborate on **Go projects**.
-- 🥰 Building **[ServerHost](https://www.serverhost53.com/)**, **[Video Transcoding](https://github.com/Bascil/aws-s3-elastic-video-transcoder-lambda)**,**[Video Analysis](https://github.com/Bascil/aws-rekognition-video-analysis-lambda)**,  **[Serverless Data Pipelines](https://github.com/Bascil/gcp-batch-ingestion-bigquery)**, **[Go Backends](https://github.com/Bascil/golang-fiber-backend)**, **[Daraja APIs](https://github.com/Bascil/mpesa-daraja-api-php)** & **[USSD](https://github.com/Bascil/ussd-mobile-money-php)** as pet projects.
+- 🥰 Building **[ServerHost](https://www.serverhost53.com/)**, **[Video Transcoding](https://github.com/Bascil/aws-s3-elastic-video-transcoder-lambda)**,**[Video Analysis](https://github.com/Bascil/aws-rekognition-video-analysis-lambda)**,  **[Data Pipelines](https://github.com/Bascil/gcp-batch-ingestion-bigquery)**, **[Go Backends](https://github.com/Bascil/golang-fiber-backend)**, **[Daraja APIs](https://github.com/Bascil/mpesa-daraja-api-php)** & **[USSD](https://github.com/Bascil/ussd-mobile-money-php)** as pet projects.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `microservices` `terraform` `system design` `scalability` `design patterns` `data structures` `linux` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
@@ -37,21 +37,19 @@ Here are some ideas to get you started:
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Gitlab](https://about.gitlab.com/)
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [ClickUp](https://clickup.com) • [Trello](https://trello.com) • [Slack](https://app.slack.com)
-  - **🗂 CI/CD:** • [Cloudbuild](https://cloud.google.com/build) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
+  - **🗂 CI/CD:** • [Cloudbuild](https://cloud.google.com/build) • [Github Actions](https://github.com/features/actions) 
   - **🗂 TDD:** • [Jest](https://jestjs.io/) • [PHPUnit](https://phpunit.de/)
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  • [Repository](https://deviq.com/design-patterns/repository-pattern) • [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern)  [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [Message Queuing](https://cloud.google.com/pubsub)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   
 - **🏗️ Code editors:**
-<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
+<a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
   
 #### What's interesting about me?  
-  - 😎 I am an **ambivert** and I can speak **english** in multiple accents.
   - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
-  - ✍️ I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I drink a lot of ☕ **coffee**.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **GCP** and **React**  ecosystem.
+  - 😅 I just can't **resist the urge** to **explore** new **tech** released in the **HashiCorp**, **GCP** and **React**  ecosystem.
 
 <!--Github Stats-->
 <p float="left">
@@ -70,7 +68,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<!--
 #### How to get in touch with me?
 <p left="center">
 <a href="https://www.linkedin.com/in/basil-ndonga/">
@@ -80,4 +77,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
 </p>
--->
+
