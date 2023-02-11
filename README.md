@@ -32,7 +32,9 @@ Here are some ideas to get you started:
   - **📜 Languages:** • `Javascript` • `PHP` • `Go`
   - **🔭 Frameworks:** • [NodeJs](https://nodejs.org/en/) • [Typescript](https://www.typescriptlang.org/) • [Laravel](https://laravel.com/) • [Fiber](https://github.com/gofiber/fiber)
   - **💾 Databases:** • [MySQL](https://www.mysql.com/) • [Postgres](https://www.postgresql.org/) • [MongoDB](https://www.mongodb.com/) • [Bigquery](https://cloud.google.com/bigquery)
-  - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
+  - **🎛 Architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
+  - **🎛 Linux:**  • `Command Line` • `Bash Scripts` • `Cron`
+  - **🎛 DevOps:** • [Docker](https://www.docker.com/) • [Kubernetes](https://kubernetes.io/) • [Terraform](https://www.terraform.io/) • [Serverless](https://cloud.google.com/serverless)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [GraphQL](https://graphql.org/) • [GRPC](https://grpc.io/) • [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) 
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Gitlab](https://about.gitlab.com/)
@@ -40,7 +42,7 @@ Here are some ideas to get you started:
   - **🗂 CI/CD:** • [Cloudbuild](https://cloud.google.com/build) • [Github Actions](https://github.com/features/actions) 
   - **🗂 TDD:** • [Jest](https://jestjs.io/) • [PHPUnit](https://phpunit.de/)
 - 🧙‍♂️ **Coding pattern & principles:**
-  - **⚒ Patterns:**  • [Repository](https://deviq.com/design-patterns/repository-pattern) • [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern)  [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [Message Queuing](https://cloud.google.com/pubsub)
+  - **⚒ Patterns:**  • [Repository](https://deviq.com/design-patterns/repository-pattern) • [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern) •  [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [Message Queuing](https://cloud.google.com/pubsub)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   
 - **🏗️ Code editors:**
