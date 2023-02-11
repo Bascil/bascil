@@ -12,7 +12,7 @@
 - 👯 Looking to collaborate on **Go projects**.
 - 🥰 Building **[ServerHost](https://www.serverhost53.com/)**, **[Video Transcoding](https://github.com/Bascil/aws-s3-elastic-video-transcoder-lambda)**,**[Video Analysis](https://github.com/Bascil/aws-rekognition-video-analysis-lambda)**,  **[Data Pipelines](https://github.com/Bascil/gcp-batch-ingestion-bigquery)**, **[Go Backends](https://github.com/Bascil/golang-fiber-backend)**, **[Daraja APIs](https://github.com/Bascil/mpesa-daraja-api-php)** & **[USSD](https://github.com/Bascil/ussd-mobile-money-php)** as pet projects.
 
-#### What I like to disscuss about? 
+#### What I like to discuss about? 
 - 💬 Ask me about `microservices` `terraform` `system design` `scalability` `design patterns` `data structures` `linux` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
 
 #### What my skill set looks like?
@@ -36,13 +36,13 @@
   - **🗂 TDD:** • [Jest](https://jestjs.io/) • [PHPUnit](https://phpunit.de/)
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  • [Repository](https://deviq.com/design-patterns/repository-pattern) • [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern) •  [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [Message Queuing](https://cloud.google.com/pubsub)
-  - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+  - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   
 - **🏗️ Code editors:**
 <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
   
 #### What's interesting about me?  
-  - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
+  - 🧐 I love to be very **precise** and **thorough**.
   - ⏱️ I drink a lot of ☕ **coffee**.
   - 😅 I just can't **resist the urge** to **explore** new **tech** released in the **HashiCorp**, **GCP** and **React**  ecosystem.
 
