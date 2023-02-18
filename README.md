@@ -44,7 +44,7 @@
 #### What's interesting about me?  
   - 🧐 I love to be very **precise** and **thorough**.
   - ⏱️ I drink a lot of ☕ **coffee**.
-  - 😅 I just can't **resist the urge** to **explore** new **tech** released in the **HashiCorp**, **GCP** and **React**  ecosystem.
+  - 😅 I just can't **resist the urge** to **explore** new **tech** released in the **HashiCorp** and **GCP** ecosystem.
 
 <!--Github Stats-->
 <p float="left">
