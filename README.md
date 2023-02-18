@@ -9,7 +9,7 @@
 - 👨‍💻 Writing `NodeJs` `Laravel` `Go` Microservices.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/basil-ndonga/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **[Nairobi Gophers Community]**(https://www.meetup.com/nairobi-gophers/).
 - 📚 Currently learning about **design patterns**, **large scale system design**, and **techical pitch**.
-- 👯 Looking to collaborate on **Go projects**.
+- 👯 Looking to collaborate on **Go and Terraform** projects.
 - 🥰 Building **[ServerHost](https://www.serverhost53.com/)**, **[Video Transcoding](https://github.com/Bascil/aws-s3-elastic-video-transcoder-lambda)**,**[Video Analysis](https://github.com/Bascil/aws-rekognition-video-analysis-lambda)**,  **[Data Pipelines](https://github.com/Bascil/gcp-batch-ingestion-bigquery)**, **[Go Backends](https://github.com/Bascil/golang-fiber-backend)** & **[USSD](https://github.com/Bascil/ussd-mobile-money-php)** as pet projects.
 
 #### What I like to discuss about? 
