@@ -13,7 +13,7 @@
 - 🥰 Building **[ServerHost](https://www.serverhost53.com/)**, **[Video Transcoding](https://github.com/Bascil/aws-s3-elastic-video-transcoder-lambda)**,**[Video Analysis](https://github.com/Bascil/aws-rekognition-video-analysis-lambda)**,  **[Data Pipelines](https://github.com/Bascil/gcp-batch-ingestion-bigquery)**, **[Go Backends](https://github.com/Bascil/golang-fiber-backend)** & **[USSD](https://github.com/Bascil/ussd-mobile-money-php)** as pet projects.
 
 #### What I like to discuss about? 
-- 💬 Ask me about `microservices` `terraform` `system design` `scalability` `design patterns` `data structures` `linux` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
+- 💬 Ask me about `microservices` `terraform` `kubernetes` `system design` `scalability` `design patterns` `data structures` `linux` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
