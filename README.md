@@ -1,6 +1,6 @@
 #### Short Summary
 - A Senior Software Engineer with 6 years experience based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Kenya).** 
-- I have practical experience in **NextJs, Node, Typescript, Laravel, Terraform and Kubernetes.**
+- I have practical experience in **NextJs, Node, Typescript, Laravel, Terraform and Kubernetes on GCP**
 - Developed products for **Logistics, E-commerce, Education,** and **Healthcare** business domains.
 - Have built **web** apps targeting **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
