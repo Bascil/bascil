@@ -1,19 +1,19 @@
 #### Short Summary
 - A Senior Software Engineer with 6 years experience based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Kenya).** 
 - I have practical experience in **NextJs, Node, Typescript, Laravel, Terraform and Kubernetes on GCP**
-- Developed products for **Logistics, E-commerce, Education,** and **Healthcare** business domains.
+- Developed products for **Logistics, E-commerce, and **Education** business domains.
 - Have built **web** apps targeting **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
 - 🏢 Working at **[iProcure](https://iprocu.re)** as a **Senior Software Engineer**.
 - 👨‍💻 Writing `NodeJs` `Laravel` `Go` Microservices.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/basil-ndonga/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **[Nairobi Gophers Community]**(https://www.meetup.com/nairobi-gophers/).
-- 📚 Currently learning about **design patterns**, **large scale system design**, and **techical pitch**.
-- 👯 Looking to collaborate on **Go and Terraform** projects.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/basil-ndonga/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **[Nairobi Hashicorp User Group]**(https://www.meetup.com/nairobi-hashicorp-user-group/).
+- 📚 Currently learning about **advanced terraform concepts**, **operating systems**, and **database optimization**.
+- 👯 Looking to collaborate on **Terraform** projects especially building reusable terraform modules.
 - 🥰 Building **[ServerHost](https://www.serverhost53.com/)**, **[Video Transcoding](https://github.com/Bascil/aws-s3-elastic-video-transcoder-lambda)**,**[Video Analysis](https://github.com/Bascil/aws-rekognition-video-analysis-lambda)**,  **[Data Pipelines](https://github.com/Bascil/gcp-batch-ingestion-bigquery)**, **[Go Backends](https://github.com/Bascil/golang-fiber-backend)** & **[USSD](https://github.com/Bascil/ussd-mobile-money-php)** as pet projects.
 
 #### What I like to discuss about? 
-- 💬 Ask me about `microservices` `terraform` `kubernetes` `system design` `scalability` `design patterns` `data structures` `linux` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
+- 💬 Ask me about `microservices` `terraform` `kubernetes` `database optimization` `scalability` `design patterns` `data structures` `linux` `clean code` `requirement analysis` `choice of frameworks` `startup success` and `tech culture`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
