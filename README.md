@@ -39,7 +39,7 @@
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   
 - **🏗️ Code editors:**
-<a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
+<a href="https://code.visualstudio.com/"><img src="https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg" height=25></a>
   
 #### What's interesting about me?  
   - 🧐 I love to be very **precise** and **thorough**.
