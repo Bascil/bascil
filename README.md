@@ -23,7 +23,7 @@
     - **🌐 Javascript:** • [ReactJs](https://reactjs.org/) • [NextJs](https://nextjs.org/) • [Redux Toolkit](https://redux-toolkit.js.org/) 
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `Javascript` • `PHP` • `Go`
-  - **🔭 Frameworks:** • [NodeJs](https://nodejs.org/en/) • [NestJs](https://nestjs.com/) • [Laravel](https://laravel.com/) • [Fiber](https://github.com/gofiber/fiber)
+  - **🔭 Frameworks:** • [NodeJs](https://nodejs.org/en/) • [NestJs](https://nestjs.com/) • [Laravel](https://laravel.com/) • [Gin](https://gin-gonic.com/)
   - **💾 Databases:** • [MySQL](https://www.mysql.com/) • [Postgres](https://www.postgresql.org/) • [MongoDB](https://www.mongodb.com/) • [Bigquery](https://cloud.google.com/bigquery)
   - **🎛 Architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
   - **🎛 Linux:**  • `Command Line` • `Bash Scripts` • `Cron`
