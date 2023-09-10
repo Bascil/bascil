@@ -33,7 +33,7 @@
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Gitlab](https://about.gitlab.com/)
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [ClickUp](https://clickup.com) • [Trello](https://trello.com) • [Slack](https://app.slack.com)
   - **🗂 CI/CD:** • [Cloudbuild](https://cloud.google.com/build) • [Github Actions](https://github.com/features/actions) 
-  - **🗂 TDD:** • [Jest](https://jestjs.io/) • [PHPUnit](https://phpunit.de/)
+  - **🗂 TDD:** • [Jest](https://jestjs.io/) • [PHPUnit](https://phpunit.de/) • [GoTest](https://pkg.go.dev/testing)
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  • [Repository](https://deviq.com/design-patterns/repository-pattern) • [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern) •  [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [Message Queuing](https://cloud.google.com/pubsub)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
