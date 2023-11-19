@@ -5,7 +5,6 @@
 - Have built **web** apps targeting **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **[iProcure](https://iprocu.re)** as a **Senior Software Engineer**.
 - 👨‍💻 Writing `NodeJs` `Laravel` `Go` Microservices.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/basil-ndonga/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **[Nairobi Hashicorp User Group]**(https://www.meetup.com/nairobi-hashicorp-user-group/).
 - 📚 Currently learning about **advanced terraform concepts**, **operating systems**, and **database optimization**.
