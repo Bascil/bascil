@@ -9,7 +9,7 @@
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/basil-ndonga/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **[Nairobi Hashicorp User Group]**(https://www.meetup.com/nairobi-hashicorp-user-group/).
 - 📚 Currently learning about **advanced terraform concepts**, **operating systems**, and **database optimization**.
 - 👯 Looking to collaborate on **Terraform** projects especially building reusable terraform modules.
-- 🥰 Building **[ServerHost](https://www.serverhost53.com/)**, **[Video Transcoding](https://github.com/Bascil/aws-s3-elastic-video-transcoder-lambda)**,**[Video Analysis](https://github.com/Bascil/aws-rekognition-video-analysis-lambda)**,  **[Data Pipelines](https://github.com/Bascil/gcp-batch-ingestion-bigquery)**, **[Go Backends](https://github.com/Bascil/golang-fiber-backend)** & **[USSD](https://github.com/Bascil/ussd-mobile-money-php)** as pet projects.
+- 🥰 Building **[Servercrust](https://www.servercrust.com/)**, **[Video Transcoding](https://github.com/Bascil/aws-s3-elastic-video-transcoder-lambda)**,**[Video Analysis](https://github.com/Bascil/aws-rekognition-video-analysis-lambda)**,  **[Data Pipelines](https://github.com/Bascil/gcp-batch-ingestion-bigquery)**, **[Go Backends](https://github.com/Bascil/golang-fiber-backend)** & **[USSD](https://github.com/Bascil/ussd-mobile-money-php)** as pet projects.
 
 #### What I like to discuss about? 
 - 💬 Ask me about `microservices` `terraform` `kubernetes` `gRPC`, `database optimization` `scalability` `design patterns` `server side rendering` `linux` `clean code` `requirement analysis` `choice of frameworks` and `startup success`.
