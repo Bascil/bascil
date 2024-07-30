@@ -3,7 +3,7 @@
 **Experience:**  
 - I architect and deploy lightweight, high-performance, scalable microservices using PHP and Go.
 - My work centers on developing backend services with low memory footprint and minimal latency.
-- I optimize Docker builds, caching underlying image layers to reduce build time, streamline deployment, and improve performance.
+- I optimize Docker builds, caching underlying image layers to reduce build time, streamline deployment.
 
 **Activities:**
 - Developing lightweight, high-performance, scalable microservices.
