@@ -6,11 +6,11 @@
 - I optimize Docker builds, caching underlying image layers to reduce build time, streamline deployment.
 
 **Activities:**
-- Developing lightweight, high-performance, scalable microservices.
+- Developing lightweight, high-performance, scalable backend services.
 - Currently exploring Rust to build backend services that are performant, robust and memory safe.
 
 **Discussion Topics:**  
-- DDD, CQRS, Terraform, Borrow Checker, Design patterns, OS Concepts, and more.
+- Event Soucing, Terraform, Borrow Checker, Design patterns, OS Concepts, and more.
 
 **Skill Set:**  
 - Front-end: NextJs, Shadcn, Tailwind, Material UI.
