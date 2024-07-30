@@ -1,29 +1,24 @@
 ### Summary
 
 **Experience:**  
-- Senior Software Engineer based in Nairobi, Kenya with 6 years of experience.
-- Proficient in NextJs, NodeJs, Laravel, Go, Terraform, and Kubernetes on GCP.
-- Developed applications for Logistics, E-commerce, and Education sectors in monolithic and microservices architectures.
+- I architect and deploy lightweight, high-performance, scalable microservices using PHP and Go.
+- My work centers on developing backend services with low memory footprint and minimal latency.
+- I optimize Docker builds, caching underlying image layers to reduce build time, streamline deployment, and improve performance.
 
 **Activities:**
-- Developing NodeJs, Laravel, and Go Microservices.
-- Active member of Nairobi Hashicorp User Group.
-- Currently learning advanced Terraform concepts, operating systems, and database optimization.
-- Seeking collaboration on Terraform projects.
-- Working on various projects including Servercrust, Video Transcoding, Data Pipelines, and more.
+- Developing lightweight, high-performance, scalable microservices.
+- Currently exploring Rust to build backend services that are performant, robust and memory safe.
 
 **Discussion Topics:**  
-- Microservices, Terraform, Kubernetes, gRPC, database optimization, design patterns, Linux, and more.
+- DDD, CQRS, Terraform, Borrow Checker, Design patterns, OS Concepts, and more.
 
 **Skill Set:**  
-- Front-end: ReactJs, NextJs, HTML, CSS, Tailwind, Material UI.
-- Back-end: NodeJs, Laravel, Go, MySQL, Postgres, MongoDB, Bigquery, Docker, Kubernetes, Terraform, REST, GraphQL, gRPC.
+- Front-end: NextJs, Shadcn, Tailwind, Material UI.
+- Back-end: PHP, Go, Javascript.
 - Coding principles: DRY, DDD, SOLID.
 
 **Interests:**  
 - Precise and thorough work.
-- Coffee enthusiast.
-- Exploring new tech in HashiCorp and GCP ecosystem.
 
 **Companies Worked For:**
 - Iprocure
