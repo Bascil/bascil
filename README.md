@@ -10,11 +10,11 @@
 - Currently exploring Rust to build backend services that are performant, robust and memory safe.
 
 **Discussion Topics:**  
-- Event Soucing, Terraform, Borrow Checker, Design patterns, OS Concepts, and more.
+- Event Soucing, Terraform, Memory Management, Borrow Checker, Design patterns, OS Concepts, and more.
 
 **Skill Set:**  
 - Front-end: NextJs, Shadcn, Tailwind, Material UI.
-- Back-end: PHP, Go, Javascript.
+- Back-end: Javascript, PHP, Go, Rust.
 - Coding principles: DRY, DDD, SOLID.
 
 **Interests:**  
