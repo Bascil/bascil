@@ -12,8 +12,6 @@ I design and deploy **high-performance, scalable backend systems** that moderniz
 **Languages & Frameworks:** Rust, PHP, Go, Node.js, TypeScript, Laravel, Actix, Next.js, Vue.js, Redux  
 **Databases:** Postgres, MySQL, Redis, NoSQL  
 **DevOps & Cloud:** Linux, Bash, Git, Docker, Kubernetes, Kustomize, ArgoCD, Terraform, Ansible, Jenkins, GKE  
-**Observability:** Promtail, Loki, Grafana  
-**Principles:** Data Structures, Algorithms, OS Concepts, Microservices, Design Patterns, OOP, DDD, SOLID  
 
 ## Projects
 - **SERVERCRUST:** Cloud platform for servers, IPs, domains, and managed databases ([servercrust.com](https://servercrust.com))  
