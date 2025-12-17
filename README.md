@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 I design and deploy **high-performance, scalable backend systems** that modernize legacy infrastructure and enable businesses to operate efficiently at scale. My work spans **Rust, PHP, Go, and Node.js**, focusing on **memory-safe, low-latency services**, microservices architecture, and cloud-native deployments.
 
