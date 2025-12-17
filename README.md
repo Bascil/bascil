@@ -5,7 +5,7 @@ I design and deploy **high-performance, scalable backend systems** that moderniz
 ## What I Do
 - Modernize legacy codebases, rewriting critical components in **Rust** for improved performance, safety, and concurrency.
 - Architect **multi-tenant Kubernetes clusters** and automate deployments using **Docker, Terraform, Ansible, and ArgoCD**.
-- Optimize relational databases (**Postgres, MySQL**) and implement high-throughput queue systems using **Redis & Laravel Horizon**.
+- Optimize relational databases (**Postgres, MySQL**) and implement high-throughput queue systems using **Redis**.
 - Build **production-grade microservices** and backend APIs with PHP, Rust, and Node.js.
   
 ## Skills
